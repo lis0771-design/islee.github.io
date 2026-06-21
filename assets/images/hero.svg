@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="750" viewBox="0 0 600 750" role="img" aria-label="XÁ x ¤œ$ placeholder">
+  <defs>
+    <linearGradient id="heroGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2a2838"/>
+      <stop offset="50%" stop-color="#3d3650"/>
+      <stop offset="100%" stop-color="#4a3f52"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="750" fill="url(#heroGrad)"/>
+  <rect x="80" y="120" width="440" height="280" fill="#1e1c28" opacity="0.6" rx="4"/>
+  <line x1="120" y1="200" x2="480" y2="200" stroke="#c9a89a" stroke-width="1.5" opacity="0.5"/>
+  <line x1="120" y1="260" x2="400" y2="260" stroke="#c9a89a" stroke-width="1" opacity="0.35"/>
+  <line x1="120" y1="320" x2="440" y2="320" stroke="#c9a89a" stroke-width="1" opacity="0.25"/>
+  <ellipse cx="300" cy="520" rx="120" ry="80" fill="#5c4a5a" opacity="0.4"/>
+  <text x="300" y="680" text-anchor="middle" fill="#8a8494" font-family="Georgia, serif" font-size="14" letter-spacing="2">PORTFOLIO IMAGE</text>
+</svg>

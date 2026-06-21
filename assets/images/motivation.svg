@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="750" viewBox="0 0 600 750" role="img" aria-label="Ðè ¤@X placeholder">
+  <defs>
+    <linearGradient id="motGrad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#252330"/>
+      <stop offset="100%" stop-color="#38324a"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="750" fill="url(#motGrad)"/>
+  <rect x="60" y="100" width="100" height="140" fill="#6b5d6e" rx="2"/>
+  <rect x="180" y="100" width="100" height="140" fill="#8a7a72" rx="2"/>
+  <rect x="300" y="100" width="100" height="140" fill="#5a6578" rx="2"/>
+  <rect x="420" y="100" width="100" height="140" fill="#7a6b5a" rx="2"/>
+  <rect x="60" y="260" width="100" height="140" fill="#4a5568" rx="2"/>
+  <rect x="180" y="260" width="100" height="140" fill="#9a8a7a" rx="2"/>
+  <rect x="300" y="260" width="100" height="140" fill="#6a5a6a" rx="2"/>
+  <rect x="420" y="260" width="100" height="140" fill="#5a6a7a" rx="2"/>
+  <circle cx="300" cy="520" r="60" fill="none" stroke="#c9a89a" stroke-width="1" opacity="0.4"/>
+  <text x="300" y="680" text-anchor="middle" fill="#8a8494" font-family="Georgia, serif" font-size="14" letter-spacing="2">FABRIC SWATCHES</text>
+</svg>

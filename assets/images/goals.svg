@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="750" viewBox="0 0 600 750" role="img" aria-label="ì	X ‘Å õ placeholder">
+  <defs>
+    <linearGradient id="goalGrad" x1="50%" y1="0%" x2="50%" y2="100%">
+      <stop offset="0%" stop-color="#2e2a3a"/>
+      <stop offset="100%" stop-color="#1e1c28"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="750" fill="url(#goalGrad)"/>
+  <rect x="100" y="80" width="400" height="500" fill="#3a3548" opacity="0.5" rx="4"/>
+  <path d="M150 200 L450 200 L420 450 L180 450 Z" fill="none" stroke="#c9a89a" stroke-width="1.5" opacity="0.45"/>
+  <path d="M200 200 L200 450" stroke="#c9a89a" stroke-width="0.75" opacity="0.3"/>
+  <path d="M300 200 L300 450" stroke="#c9a89a" stroke-width="0.75" opacity="0.3"/>
+  <path d="M400 200 L400 450" stroke="#c9a89a" stroke-width="0.75" opacity="0.3"/>
+  <line x1="150" y1="280" x2="450" y2="280" stroke="#c9a89a" stroke-width="0.5" opacity="0.25"/>
+  <line x1="150" y1="360" x2="450" y2="360" stroke="#c9a89a" stroke-width="0.5" opacity="0.25"/>
+  <text x="300" y="680" text-anchor="middle" fill="#8a8494" font-family="Georgia, serif" font-size="14" letter-spacing="2">COLLECTION WORK</text>
+</svg>
